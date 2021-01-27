@@ -1,6 +1,6 @@
 ## Welcome to Raymond's profile!
 
-### My Personality
+### About Me
 
 It has been moved to my website, [click here](https://raymond.wtf) to teleport!
 
