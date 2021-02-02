@@ -2,7 +2,7 @@
 
 ### About Me
 
-It has been moved to my website, [click here](https://raymond.wtf) to teleport!
+It has been moved to my website, [click here](https://raymond-1227.github.io) to teleport! (Well it was in fact moved to my personal website ever since I started some real weird about mes.)
 
 ### Basic Coding Information
 
