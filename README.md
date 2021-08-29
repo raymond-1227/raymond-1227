@@ -6,7 +6,7 @@ I mostly don't do coding much, but video editing or doing random things.
 
 It has been moved to my website, [click here](https://raymond-1227.github.io) to teleport! (Well it was in fact moved to my personal website ever since I started some really weird about mes.)
 
-### Basic Coding Information
+### My Basic Coding Information
 
 - 🌱 I’m currently learning JavaScript
 
