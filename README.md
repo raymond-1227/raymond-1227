@@ -2,9 +2,9 @@
 
 ### About Me
 
-I mostly don't do coding much, but video editing or doing random things.
+I put my coding projects here, some of the website repositories are built with [Brizy Cloud](https://brizy.cloud/), cuz it's much more easy than coding HTML, CSS, JS from scratch
 
-It has been moved to my website, [click here](https://raymond-1227.github.io) to teleport! (Well it was in fact moved to my personal website ever since I started some really weird about mes.)
+**You can [click here](https://raymond-1227.github.io) to check out my website!**
 
 ### My Basic Coding Information
 
