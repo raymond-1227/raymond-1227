@@ -14,7 +14,7 @@ I put my coding projects here, some of the website repositories are built with [
 
 - 🤔 I’m looking for help with discord.js bot
 
-### GitHub Stats
+### Stats
 
 ![Raymond's github stats](https://github-readme-stats.vercel.app/api?username=raymond-1227&theme=dark&show_icons=true)
 
