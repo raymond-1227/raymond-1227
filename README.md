@@ -2,7 +2,7 @@
 
 ### About Me
 
-I put my coding projects here, some of the website repositories are built with [Brizy Cloud](https://brizy.cloud/), cuz it's much more easy than coding HTML, CSS, JS from scratch
+I put my coding projects here, some of the website repositories are built with [Brizy Cloud](https://brizy.cloud/), it's much more easier than coding HTML, CSS, JS from scratch.
 
 **You can [click here](https://raymond-1227.github.io) to check out my website!**
 
