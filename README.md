@@ -8,7 +8,7 @@ I put my coding projects here, although yes I do code HTML sites from scratch or
 
 ### My Basic Coding Information
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and C++
 
 - 🔭 I’m currently working on [discord.js](https://discord.js.org) bot
 
