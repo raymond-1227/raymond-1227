@@ -2,9 +2,11 @@
 
 ### About Me
 
-I put my coding projects here, although yes I do code HTML sites from scratch or templates, but since I mostly do web design rather than code a website, so many of my site repositories are designed and built with [Brizy Cloud](https://brizy.cloud/), it's much easier that way.
+I put my coding projects here, although yes I do code HTML sites from scratch or templates, but since I mostly do web design rather than code a website, therefore many of my site repositories are designed and built with [Brizy Cloud](https://brizy.io/cloud), it's much easier that way.
 
-**You can [click here](https://raymond-1227.github.io) to check out my main website!**
+Though I make websites, I also have certain Discord bots, mostly hosted on [Oracle Cloud Infrastructure](https://www.oracle.com/cloud), they offer always free plan which allows you to create a limited amount of VMs for your own sake of use!
+
+**You can [click here](https://rhsu.cc) to check out my main website!**
 
 ### My Basic Coding Information
 
