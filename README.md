@@ -1,23 +1,21 @@
-## Welcome to Raymond's profile!
+## Welcome to my GitHub profile!
 
 ### About Me
 
-I put my coding projects here, although yes I do code HTML sites from scratch or templates, but since I mostly do web design rather than code a website, therefore many of my site repositories are designed and built with [Brizy Cloud](https://brizy.io/cloud), it's much easier that way.
+I open source most of my coding projects here, though yes I do code HTML sites from scratch or templates, but I still mostly do web design rather than coding a website, you'd see many site repositories are designed with [Brizy Cloud](https://brizy.io/cloud) which is machine generated code, it's much easier that way for me to present my design.
 
-Though I make websites, I also have certain Discord bots, mostly hosted on [Oracle Cloud Infrastructure](https://www.oracle.com/cloud), they offer always free plan which allows you to create a limited amount of VMs for your own sake of use!
+Besides of these website designs, I also code certain Discord bots, mostly hosted on [Oracle Cloud Infrastructure](https://www.oracle.com/cloud), they offer **always free tier** which allows you to create a limited amount of VMs for your own sake of use!
 
-**You can [click here](https://rhsu.cc) to check out my main website!**
+**[Click here](https://rhsu.cc) to check out my main website!**
 
 ### My Basic Coding Information
 
-- 🌱 I’m currently learning JavaScript and C++
+- 🌱 I’m currently learning JavaScript
 
-- 🔭 I’m currently working on [discord.js](https://discord.js.org) bot
+- 🔭 I’m currently working on [hackerman14 Discord bot](https://github.com/hackerman14/bot-code) and [class table teller](https://github.com/raymond-1227/whats-the-next-class)
 
-- 🤔 I’m looking for help with [discord.js](https://discord.js.org) bot
+- 🤔 I’m looking for help with the projects mentioned above
 
 ### Stats
 
-![Raymond's github stats](https://github-readme-stats.vercel.app/api?username=raymond-1227&theme=dark&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raymond-1227&theme=dark)
+![Raymond's github stats](https://github-readme-stats.vercel.app/api?username=raymond-1227&theme=dark&show_icons=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
