@@ -24,4 +24,4 @@ Besides of these website designs, I also code certain Discord bots, mostly hoste
 
 ### Stats
 
-![Raymond's GitHub Stats](./profile/stats.svg)
+![Raymond's GitHub Stats](https://github-stats-extended.vercel.app/api?username=raymond-1227&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&disable_animations=true&theme=dark)
