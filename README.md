@@ -18,7 +18,7 @@ Besides of these website designs, I also code certain Discord bots, mostly hoste
 
 - 🌱 I’m currently learning JavaScript
 
-- 🔭 I’m currently working on [hackerman14 Discord bot](https://github.com/hackerman14/bot-code) and [class table teller](https://github.com/raymond-1227/whats-the-next-class)
+- 🔭 I’m currently working on [hackerman14 Discord bot](https://github.com/hackerman14/bot-code) and [realmeme SuperFART Discord bot](https://github.com/raymond-1227/realmeme-superfart-rebooted).
 
 - 🤔 I’m looking for help with the projects mentioned above
 
